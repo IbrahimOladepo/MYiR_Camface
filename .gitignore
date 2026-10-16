@@ -1,0 +1,27 @@
+# KiCad backups and autosave
+*-backups/
+*.kicad_prl
+*.bak
+*.bck
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*-bak
+*.autosave
+_autosave-*
+~*.lck
+fp-info-cache
+
+# Generated outputs
+*.net
+*.dsn
+*.ses
+*-rescue.lib
+*-rescue.dcm
+*-cache.lib
+*-cache.dcm
+gerbers/
+production/
+
+# OS / editor
+Thumbs.db
+.DS_Store
