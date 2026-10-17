@@ -19,8 +19,6 @@ fp-info-cache
 *-rescue.dcm
 *-cache.lib
 *-cache.dcm
-gerbers/
-production/
 
 # OS / editor
 Thumbs.db
