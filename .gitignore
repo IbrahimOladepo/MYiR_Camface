@@ -25,3 +25,6 @@ production/
 # OS / editor
 Thumbs.db
 .DS_Store
+
+# KiCad local history
+.history/
