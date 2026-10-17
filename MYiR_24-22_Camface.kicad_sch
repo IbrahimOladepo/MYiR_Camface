@@ -3944,7 +3944,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0f1ccbf7-cbf7-4daa-aea1-08a8f0c256f9")
-		(property "Reference" "MCK"
+		(property "Reference" "MCK1"
 			(at 160.02 87.63 0)
 			(show_name no)
 			(do_not_autoplace yes)
@@ -4004,7 +4004,7 @@
 		(instances
 			(project "MYiR_24-22_Camface"
 				(path "/537985de-ea24-4fe9-96e4-9dfd7abe623a"
-					(reference "MCK")
+					(reference "MCK1")
 					(unit 1)
 				)
 			)
@@ -4299,7 +4299,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4ae33960-759a-4c14-bb0e-dcfa26c9722f")
-		(property "Reference" "5V"
+		(property "Reference" "5V1"
 			(at 139.7 58.42 0)
 			(show_name no)
 			(do_not_autoplace yes)
@@ -4359,7 +4359,7 @@
 		(instances
 			(project "MYiR_24-22_Camface"
 				(path "/537985de-ea24-4fe9-96e4-9dfd7abe623a"
-					(reference "5V")
+					(reference "5V1")
 					(unit 1)
 				)
 			)
@@ -4803,7 +4803,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9fda54d4-0994-402f-b22c-2e1dd33e966f")
-		(property "Reference" "RST"
+		(property "Reference" "RST1"
 			(at 147.32 87.63 0)
 			(show_name no)
 			(do_not_autoplace yes)
@@ -4863,7 +4863,7 @@
 		(instances
 			(project "MYiR_24-22_Camface"
 				(path "/537985de-ea24-4fe9-96e4-9dfd7abe623a"
-					(reference "RST")
+					(reference "RST1")
 					(unit 1)
 				)
 			)
@@ -5036,7 +5036,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bc6bda75-132e-46d1-bd14-1c112c82481d")
-		(property "Reference" "PDN"
+		(property "Reference" "PDN1"
 			(at 153.67 87.63 0)
 			(show_name no)
 			(do_not_autoplace yes)
@@ -5096,7 +5096,7 @@
 		(instances
 			(project "MYiR_24-22_Camface"
 				(path "/537985de-ea24-4fe9-96e4-9dfd7abe623a"
-					(reference "PDN")
+					(reference "PDN1")
 					(unit 1)
 				)
 			)
@@ -5270,7 +5270,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e184ebe0-6951-4a23-93ce-c5661e6f8012")
-		(property "Reference" "EN"
+		(property "Reference" "EN1"
 			(at 88.9 62.23 0)
 			(show_name no)
 			(do_not_autoplace yes)
@@ -5330,7 +5330,7 @@
 		(instances
 			(project "MYiR_24-22_Camface"
 				(path "/537985de-ea24-4fe9-96e4-9dfd7abe623a"
-					(reference "EN")
+					(reference "EN1")
 					(unit 1)
 				)
 			)
