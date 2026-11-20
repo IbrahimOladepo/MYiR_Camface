@@ -1,0 +1,7 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"3V3, 5V, GND_2, GND",Pin_D1.0mm_L10.0mm,4,PTH,
+"EN, GPIO2, MCK, PDN, RST",Pin_D0.7mm_L6.5mm_W1.8mm_FlatFork,5,PTH,
+J1,FPC_1x22_P0.5mm_Horizontal_BottomContact,1,Conn_01x22_FPC_0.5mm,C22360344
+J2,FPC_1x24_P0.5mm_Horizontal_BottomContact,1,Conn_01x24_FPC,C3446015
+J3,BarrelJack_Horizontal,1,JACK_3V3,
+SW1,SW_DIP_SPSTx03_Slide_KingTek_DSHP03TS_W7.62mm_P1.27mm,1,SW_DIP_x03,
